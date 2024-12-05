@@ -1,3 +1,7 @@
+//Sumatoria Recursiva
+//Escribe una función recursiva que calcule la sumatoria de los números del 1 hasta un número n ingresado por el usuario.
+
+
 #include <iostream>
 using namespace std;
 
