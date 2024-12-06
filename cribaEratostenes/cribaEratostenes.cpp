@@ -11,7 +11,7 @@ void cribaEratostenes(int x){
             }
         }
         if(primo){
-            cout << i  << " es primo" << endl;
+            cout << i  << " El numero es primo" << endl;
         }
     }
 }

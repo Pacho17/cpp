@@ -3,10 +3,10 @@
 using namespace std;
 int main(){
     int x;
-    cout << "Ingrese el valor a hacer la serie: ";
+    cout << "Ingrese el valor de la serie ";
     cin >> x;
     cout << endl;
     int calculos = serieCollatz(x);
-    cout << "El numero de calculos fue: " << calculos << endl;
+    cout << "El numero del calculo fue: " << calculos << endl;
     return 0;
 }

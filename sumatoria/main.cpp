@@ -3,9 +3,9 @@
 using namespace std;
 int main(){
     int n;
-    cout << "Ingrese el valor a realizar sumatoria:" << endl;
+    cout << "Ingrese un numero para realizar la sumatoria:" << endl;
     cin >> n;
     int suma = sumatoria(n);
-    cout << "El valor de la sumatoria es: " << suma << endl;
+    cout << "El valor de la suma es: " << suma << endl;
     return 0;
 }
